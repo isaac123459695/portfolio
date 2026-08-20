@@ -1,5 +1,5 @@
 body {
-    background-image: url('nedladdning.jpg');
+   background-color: black;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -25,7 +25,7 @@ body {
     z-index: 1000;
 }
 
-navbar a {
+.navbar a {
     text-decoration: none;
     color: white;
     font-size: 18px;
